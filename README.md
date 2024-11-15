@@ -17,7 +17,7 @@
 
 Теперь переходим к введению команд в терминал.
 
-# 1. Установка Grafana Stack
+# => Grafana Stack
 
 1. Установка Docker'а
 
@@ -175,7 +175,7 @@ Cоздаем папки двумя разными способами
 
 Сохраняем при помощи :wq! и снова запускаем Docker Compose
 
-# 2. Установка Prometheus
+# => Установка Prometheus
 
 Для установки и дальнейшей настройки, нам нужно зайти на сайт: http://localhost:3000
 
@@ -197,7 +197,7 @@ Authentication
 
 ![изображение](https://github.com/user-attachments/assets/2fb8e36c-b079-42b3-99a2-8014f0ca2222)
 
-# 3. Делаем VictoriaMetrics
+# => Делаем VictoriaMetrics
 
 Для начала зайдем в нужную папку
 
